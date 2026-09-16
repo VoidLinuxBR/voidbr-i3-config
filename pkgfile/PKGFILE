@@ -1,7 +1,7 @@
 # Maintainer: Eduardo Charquero <eduardo.charquero@gmail.com>
 
-pkgname=voidbr-i3wm-config
-pkgdesc="Skel config for VoidBR i3wm Meta Package"
+pkgname=voidbr-i3-config
+pkgdesc="Skel config for VoidBR I3 Meta Package"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')
